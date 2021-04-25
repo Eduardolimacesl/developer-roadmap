@@ -25,6 +25,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 </p>
 
 ***
+[<h3 align="center"><strong>Whimsical-Roadmap</strong></h3>](https://whimsical.com/webdev-T5tDtt8zJ8FuKaSyyr88oC)
 
 [![](https://whimsical.com/webdev-T5tDtt8zJ8FuKaSyyr88oC)]
 
